@@ -1,0 +1,19 @@
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\bin\Debug\netcoreapp3.1\Project 3 Fern.exe
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\bin\Debug\netcoreapp3.1\Project 3 Fern.deps.json
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\bin\Debug\netcoreapp3.1\Project 3 Fern.runtimeconfig.json
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\bin\Debug\netcoreapp3.1\Project 3 Fern.runtimeconfig.dev.json
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\bin\Debug\netcoreapp3.1\Project 3 Fern.dll
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\bin\Debug\netcoreapp3.1\Project 3 Fern.pdb
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\Project 3 Fern.csproj.AssemblyReference.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\Project 3 Fern_MarkupCompile.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\Project 3 Fern.g.resources
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\Project 3 Fern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\Project 3 Fern.AssemblyInfoInputs.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\Project 3 Fern.AssemblyInfo.cs
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\Project 3 Fern.csproj.CoreCompileInputs.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\Project 3 Fern.dll
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\Project 3 Fern.pdb
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 3\Project 3 Fern\Project 3 Fern\obj\Debug\netcoreapp3.1\Project 3 Fern.genruntimeconfig.cache
