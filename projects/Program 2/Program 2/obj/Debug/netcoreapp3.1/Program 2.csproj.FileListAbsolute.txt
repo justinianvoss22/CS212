@@ -1,0 +1,38 @@
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.exe
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.deps.json
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.runtimeconfig.json
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.runtimeconfig.dev.json
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.dll
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.pdb
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.csproj.AssemblyReference.cache
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2_MarkupCompile.cache
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.g.resources
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.AssemblyInfoInputs.cache
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.AssemblyInfo.cs
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.csproj.CoreCompileInputs.cache
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.dll
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.pdb
+C:\Users\jmanv\OneDrive\College\2021-22\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.genruntimeconfig.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.csproj.AssemblyReference.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2_MarkupCompile.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.g.resources
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.AssemblyInfoInputs.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.AssemblyInfo.cs
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.csproj.CoreCompileInputs.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.dll
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.pdb
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.exe
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.deps.json
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.runtimeconfig.json
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.runtimeconfig.dev.json
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.dll
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\bin\Debug\netcoreapp3.1\Program 2.pdb
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 2\Program 2\obj\Debug\netcoreapp3.1\Program 2.genruntimeconfig.cache
