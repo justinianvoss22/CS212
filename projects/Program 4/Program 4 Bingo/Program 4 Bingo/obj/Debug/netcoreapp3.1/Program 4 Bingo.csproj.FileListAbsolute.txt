@@ -1,0 +1,14 @@
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\bin\Debug\netcoreapp3.1\Program 4 Bingo.exe
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\bin\Debug\netcoreapp3.1\Program 4 Bingo.deps.json
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\bin\Debug\netcoreapp3.1\Program 4 Bingo.runtimeconfig.json
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\bin\Debug\netcoreapp3.1\Program 4 Bingo.runtimeconfig.dev.json
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\bin\Debug\netcoreapp3.1\Program 4 Bingo.dll
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\bin\Debug\netcoreapp3.1\Program 4 Bingo.pdb
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\obj\Debug\netcoreapp3.1\Program 4 Bingo.csproj.AssemblyReference.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\obj\Debug\netcoreapp3.1\Program 4 Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\obj\Debug\netcoreapp3.1\Program 4 Bingo.AssemblyInfoInputs.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\obj\Debug\netcoreapp3.1\Program 4 Bingo.AssemblyInfo.cs
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\obj\Debug\netcoreapp3.1\Program 4 Bingo.csproj.CoreCompileInputs.cache
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\obj\Debug\netcoreapp3.1\Program 4 Bingo.dll
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\obj\Debug\netcoreapp3.1\Program 4 Bingo.pdb
+C:\Users\jmanv\OneDrive\College\2021-22\Fall 2021\CS 251\Programs\Program 4\Program 4 Bingo\Program 4 Bingo\obj\Debug\netcoreapp3.1\Program 4 Bingo.genruntimeconfig.cache
